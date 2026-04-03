@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rohith-216/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Rohith-216/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/Rohith-216/DSA/tree/main/0525-contiguous-array/) | Medium |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rohith-216/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
