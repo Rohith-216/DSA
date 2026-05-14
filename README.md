@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rohith-216/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Rohith-216/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -32,6 +33,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rohith-216/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Rohith-216/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
@@ -42,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
