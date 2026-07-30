@@ -49,12 +49,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rohith-216/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohith-216/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohith-216/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohith-216/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohith-216/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohith-216/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
