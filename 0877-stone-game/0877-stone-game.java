@@ -2,8 +2,8 @@ class Solution {
     public boolean stoneGame(int[] piles) {
         long[] players = new long[2];
         players = getWinner(piles, 0, piles.length - 1);
-        if(players[0] < players[1]) { return false; }
-        return true;
+        if(players[0] > players[1]) { return true; }
+        return false;
     }
     
 
