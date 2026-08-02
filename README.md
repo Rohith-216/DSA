@@ -13,6 +13,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Rohith-216/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/Rohith-216/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith-216/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,12 +66,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohith-216/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohith-216/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohith-216/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
