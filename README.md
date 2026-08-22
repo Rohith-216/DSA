@@ -16,6 +16,7 @@
 | [0525-contiguous-array](https://github.com/Rohith-216/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith-216/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rohith-216/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohith-216/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohith-216/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rohith-216/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -49,6 +50,7 @@
 | [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rohith-216/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +120,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rohith-216/DSA/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rohith-216/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
