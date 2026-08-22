@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Rohith-216/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rohith-216/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Rohith-216/DSA/tree/main/0169-majority-element/) | Easy |
@@ -49,6 +50,7 @@
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Rohith-216/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohith-216/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
