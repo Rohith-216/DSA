@@ -86,6 +86,7 @@
 | [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohith-216/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohith-216/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rohith-216/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
