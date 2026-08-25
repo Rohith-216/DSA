@@ -5,9 +5,10 @@ class Solution {
         for(int num: nums) set.add(num);
 
         int multiplier = 1;
-        while(true) {
-            if(!set.contains(k*multiplier)) return k*multiplier;
+        while(set.contains(k*multiplier)) {
             multiplier++;
         }
+
+        return k*multiplier;
     }
 }
