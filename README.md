@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Rohith-216/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rohith-216/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Rohith-216/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Rohith-216/DSA/tree/main/0169-majority-element/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Rohith-216/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rohith-216/DSA/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/Rohith-216/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Rohith-216/DSA/tree/main/0169-majority-element/) | Easy |
 | [0525-contiguous-array](https://github.com/Rohith-216/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith-216/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -129,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohith-216/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rohith-216/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
