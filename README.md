@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Rohith-216/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/Rohith-216/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rohith-216/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rohith-216/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -92,6 +93,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Rohith-216/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohith-216/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohith-216/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -134,5 +136,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Rohith-216/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rohith-216/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
