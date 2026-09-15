@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Rohith-216/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Rohith-216/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Rohith-216/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Rohith-216/DSA/tree/main/0048-rotate-image/) | Medium |
@@ -63,6 +64,7 @@
 | [0011-container-with-most-water](https://github.com/Rohith-216/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Rohith-216/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith-216/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Rohith-216/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith-216/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -76,6 +78,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Rohith-216/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Rohith-216/DSA/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Rohith-216/DSA/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/Rohith-216/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rohith-216/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohith-216/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
