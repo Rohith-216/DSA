@@ -97,6 +97,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohith-216/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohith-216/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohith-216/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Rohith-216/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Rohith-216/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohith-216/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Rohith-216/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
