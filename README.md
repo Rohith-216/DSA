@@ -95,6 +95,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohith-216/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Rohith-216/DSA/tree/main/0115-distinct-subsequences/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rohith-216/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohith-216/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohith-216/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohith-216/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -170,4 +171,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Rohith-216/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rohith-216/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rohith-216/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
