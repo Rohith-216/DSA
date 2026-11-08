@@ -25,6 +25,7 @@
 | [0525-contiguous-array](https://github.com/Rohith-216/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith-216/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rohith-216/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rohith-216/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohith-216/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohith-216/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -126,6 +127,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rohith-216/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Rohith-216/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rohith-216/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohith-216/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -166,10 +168,12 @@
 | [0048-rotate-image](https://github.com/Rohith-216/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rohith-216/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rohith-216/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rohith-216/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rohith-216/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rohith-216/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +188,12 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rohith-216/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rohith-216/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Rohith-216/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Rohith-216/DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
