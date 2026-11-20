@@ -30,6 +30,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohith-216/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohith-216/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohith-216/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rohith-216/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohith-216/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rohith-216/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohith-216/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -86,6 +87,7 @@
 | [0229-majority-element-ii](https://github.com/Rohith-216/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohith-216/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohith-216/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rohith-216/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@
 | [0115-distinct-subsequences](https://github.com/Rohith-216/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Rohith-216/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0877-stone-game](https://github.com/Rohith-216/DSA/tree/main/0877-stone-game/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rohith-216/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
